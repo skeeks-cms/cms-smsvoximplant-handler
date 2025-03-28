@@ -3,7 +3,7 @@ return [
     'components' => [
         'cms' => [
             'smsHandlers'             => [
-                'smsru' => [
+                'smsvoximplantphp' => [
                     'class' => \skeeks\cms\sms\smsvoximplant\SmsvoximplantHandler::class
                 ]
             ]
