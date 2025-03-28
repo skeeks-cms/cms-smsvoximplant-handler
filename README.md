@@ -3,11 +3,11 @@
 Either run
 
 ```
-php composer.phar require --prefer-dist skeeks/cms-smsvoximplant-handler "*"
+php composer.phar require --prefer-dist skeeks/cms-smsvoximplant-handler "^1"
 ```
 
 or add
 
 ```
-"skeeks/cms-smsvoximplant-handler": "*"
+"skeeks/cms-smsvoximplant-handler": "^1"
 ```
